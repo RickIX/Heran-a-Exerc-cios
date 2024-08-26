@@ -1,1 +1,1 @@
-# Heran-a-Exerc-cios
+Lista de Herança (Vendedores, Empregados, calcularSalario())
